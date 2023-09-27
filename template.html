@@ -23,6 +23,28 @@ $if(highlighting-css)$
 $highlighting-css$
   </style>
 $endif$
+
+  <style type="text/css">
+  .container .image {
+    width: auto;
+    height: 100%;
+    max-width: 100%;
+    max-height:100%;
+$if(pixelated)$
+    background-image: url("./me.png");
+$endif$
+$if(nonpixelated)$
+    background-image: url("./me.jpg");
+$endif$
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+$if(nonpixelated)$
+.nonpixelated_version {
+  visibility: hidden;
+}
+$endif$
+  </style>
 $for(css)$
   <link rel="stylesheet" href="$css$" type="text/css" />
 $endfor$
@@ -35,15 +57,6 @@ $endfor$
 <link href="https://fonts.cdnfonts.com/css/press-start-2p" rel="stylesheet">
 <link href="https://fonts.cdnfonts.com/css/roboto" rel="stylesheet">
 </head>
-<style>
-    .markdown-body {
-        box-sizing: border-box;
-        min-width: 200px;
-        max-width: 980px;
-        margin: 0 auto;
-        padding: 45px;
-    }
-</style>
 <body class="markdown-here-wrapper">
 $for(include-before)$
 $include-before$

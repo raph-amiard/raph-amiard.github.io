@@ -13,10 +13,14 @@ developped several interpreters, worked on a few compilers, and designed or
 helped design several computer languages.
 
 I'm fluent in many computer languages, and can learn new ones easily.
+
+::::::: nonpixelated_version
+To see a non-pixelated version of this curriculum, [click here](sans.html)
+:::::::
+
 :::
 
 ::: image
-![](me.png)
 :::
 
 ::::
