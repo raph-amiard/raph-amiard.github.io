@@ -16,7 +16,7 @@ I'm fluent in many computer languages, and can learn new ones easily.
 :::
 
 ::: image
-![](me.jpg)
+![](me.png)
 :::
 
 ::::
