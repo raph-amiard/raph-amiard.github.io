@@ -18,6 +18,10 @@ I'm fluent in many computer languages, and can learn new ones easily.
 To see a non-pixelated version of this curriculum, [click here](sans.html)
 :::::::
 
+::::::: pdf_version
+To get a PDF version of this curriculum, [click here](raphael_amiard_cv.pdf)
+:::::::
+
 :::
 
 ::: image
