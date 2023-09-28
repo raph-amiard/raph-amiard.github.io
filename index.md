@@ -69,8 +69,7 @@ Compiler/language front-end engineer. Lead developper/team manager
 
 * Teacher at EPITA for the **GISTRE** (Génie Informatique des systèmes temps réel et embarqués) major.
 * Teaching [Ada](https://en.wikipedia.org/wiki/Ada_(programming_language)),
-  realtime/embedded programming, and [Rust](https://www.rust-lang.org/) since
-  2020.
+  realtime/embedded programming, and [Rust](https://www.rust-lang.org/) since 2020.
 
 ### **2012** - [Google Summer of Code](https://summerofcode.withgoogle.com/): 
 
@@ -106,4 +105,4 @@ Compiler/language front-end engineer. Lead developper/team manager
 
 * Electronic music creator and lover. Released several projects in digital or
   vinyl over the years.
-* Co-created the https://excellentchoix.bandcamp.com/ music label
+* Co-created the [Excellent choix](https://excellentchoix.bandcamp.com/) music label
