@@ -31,7 +31,7 @@ To get a PDF version of this curriculum, [click here](raphael_amiard_cv.pdf)
 
 ## Work experience
 
-### **2013-2023** - [AdaCore](https://www.adacore.com/)
+### **2013-2025** - [AdaCore](https://www.adacore.com/)
 
 Compiler/language front-end engineer. Lead developper/team manager
 
@@ -74,16 +74,21 @@ Compiler/language front-end engineer. Lead developper/team manager
 [Romain Beguet]: https://www.linkedin.com/in/romain-beguet-88719a130/
 [Introduction to Ada]: https://learn.adacore.com/pdf_books/courses/intro-to-ada.pdf
 
-### **2016-2023** - [EPITA](https://www.epita.fr/en/)
+### **2016-2025** - [EPITA]
 
 * Teacher at EPITA for the **GISTRE** (Génie Informatique des systèmes temps réel et embarqués) major.
-* Teaching [Ada](https://en.wikipedia.org/wiki/Ada_(programming_language)),
-  realtime/embedded programming, and [Rust](https://www.rust-lang.org/) since 2020.
+* Teaching [Ada], realtime/embedded programming, and [Rust] since 2020.
+
+[EPITA]: https://www.epita.fr/en/
+[Ada]: https://en.wikipedia.org/wiki/Ada_(programming_language)
+[Rust]: https://www.rust-lang.org/
 
 ### **2012** - [Google Summer of Code](https://summerofcode.withgoogle.com/): 
 
 * Modularisation of the ClojureScript compiler's backend (Clojure to Javascript compiler).
-* [Development of a new Lua backend](https://github.com/raph-amiard/clojurescript-lua).
+* [Development of a new Lua backend](luabackend).
+
+[luabackend]: https://github.com/raph-amiard/clojurescript-lua
 
 ### **2010-2011** - Freelance web developper:
 
