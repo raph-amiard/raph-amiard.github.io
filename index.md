@@ -35,35 +35,44 @@ To get a PDF version of this curriculum, [click here](raphael_amiard_cv.pdf)
 
 Compiler/language front-end engineer. Lead developper/team manager
 
-* Lead developper/manager of the [Libadalang](https://github.com/AdaCore/libadalang) & [Langkit](https://github.com/AdaCore/libadalang) projects.
+* Lead developper/manager of the [Libadalang] & [Langkit] projects.
     * Ada front-end which powers a big portion of the Ada tools at AdaCore,
       including our IDEs, code style checkers, and static analysis tools
     * I originally started the projects on my own, closely followed by a colleague
     * 10 years later I manage a 5 developper team driving the development/maintenance/R&D around those projects.
-    * Presentation about Langkit at FOSDEM 2018: [Langkit: source code analyzers for the masses](https://archive.fosdem.org/2018/schedule/event/code_reviving_the_meta_compiler_dream/)
-    * Presentation about Libadalang at FOSDEM 2018: [Easy Ada Tooling with Libadalang](https://archive.fosdem.org/2018/schedule/event/ada_tooling/)
+    * Presentation about Langkit at FOSDEM 2018: [Langkit: source code analyzers for the masses](lktfosdem)
+    * Presentation about Libadalang at FOSDEM 2018: [Easy Ada Tooling with Libadalang](lalfosdem)
 
-* Lead developer & manager of [LKQL](https://github.com/AdaCore/langkit-query-language), a query language for syntax trees.
-    * Powers the [GNATcheck](https://www.adacore.com/static-analysis/gnatcheck)
-      style checker
+* Lead developer & manager of [LKQL], a query language for syntax trees.
+    * Powers the [GNATcheck] style checker
     * Allows the quick & easy definition of checkers from syntax patterns
 
 * Member of the Ada Rapporteur Group (group in charge of the standardization of the Ada language) since 2015.
 
-* Lead [language design at AdaCore](https://github.com/AdaCore/ada-spark-rfcs/).
+* Lead [language design at AdaCore](languagedesign).
     * Role: Leading & coordinating the working groups around language evolutions.
-    * Led working group on [pattern matching](https://github.com/AdaCore/ada-spark-rfcs/pull/50)
-    * Leading working group on [improved generics](https://github.com/AdaCore/ada-spark-rfcs/pull/103)
+    * Directing the [GNAT language extensions]. (Introducing pattern matching, improved generics, and other features)
 
 * Initial developper (together with
-  [@derodat](https://github.com/pmderodat)) of the
+  [Pirre-Marie de Rodat]) of the
   [GNAT-llvm](https://github.com/AdaCore/gnat-llvm) project, a middle-end for the GNAT compiler to emit LLVM IR.
 
-* Co-authored and presented [Application of SMT in a Meta-Compiler: A Logic DSL for Specifying Type Systems](https://dblp.org/pid/170/1454.html), together with [Romain Beguet](https://www.linkedin.com/in/romain-beguet-88719a130/).
+* Co-authored and presented [Application of SMT in a Meta-Compiler: A Logic DSL for Specifying Type Systems](smt), together with [Romain Beguet].
 
-* Co-wrote the [Introduction to
-  Ada](https://learn.adacore.com/pdf_books/courses/intro-to-ada.pdf)
-  course/book.
+* Co-wrote the [Introduction to @Ada] course/book.
+
+[Libadalang]: https://github.com/AdaCore/libadalang
+[Langkit]: https://github.com/AdaCore/langkit
+[lktfosdem]: https://archive.fosdem.org/2018/schedule/event/code_reviving_the_meta_compiler_dream/
+[lalfosdem]: https://archive.fosdem.org/2018/schedule/event/ada_tooling/
+[LKQL]: https://github.com/AdaCore/langkit-query-language
+[GNATcheck]: https://www.adacore.com/static-analysis/gnatcheck
+[languagedesign]: https://github.com/AdaCore/ada-spark-rfcs/
+[GNAT language extensions]: https://docs.adacore.com/gnat_rm-docs/html/gnat_rm/gnat_rm/gnat_language_extensions.html
+[Pirre-Marie de Rodat]: https://github.com/pmderodat
+[smt]: https://dblp.org/pid/170/1454.html
+[Romain Beguet]: https://www.linkedin.com/in/romain-beguet-88719a130/
+[Introduction to Ada]: https://learn.adacore.com/pdf_books/courses/intro-to-ada.pdf
 
 ### **2016-2023** - [EPITA](https://www.epita.fr/en/)
 
@@ -106,3 +115,5 @@ Compiler/language front-end engineer. Lead developper/team manager
 * Electronic music creator and lover. Released several projects in digital or
   vinyl over the years.
 * Co-created the [Excellent choix](https://excellentchoix.bandcamp.com/) music label
+
+
